@@ -1,4 +1,4 @@
-<h1 align="center">Привет giwi</h1>
+<h1 align="center">Привет я giwi</h1>
 <h3 align="center">я крутой</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giwih&label=Profile%20views&color=0e75b6&style=flat" alt="giwih" /> </p>
